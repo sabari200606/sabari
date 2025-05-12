@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+int l;
+int b;
+printf("Enter lenght:");
+scanf("%d",&l);
+printf("enetr breadth:");
+scanf("%d",&b);
+int area= l*b;
+int premeter=2*(l+b);
+printf("area=%d,premeter=%d");
+return 0;
+}
+
