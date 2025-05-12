@@ -1,0 +1,16 @@
+int a; vaild
+int@a;invalid
+flote_f; vaild
+flote 123; invaild 
+char hello world;vaild 
+int int; invaild 
+int INT; vaild 
+int intint; vaild 
+float int1; vaild 
+float f@; invaild 
+char ch; vaild
+char CHAR; vaild 
+char intfloat; vaild
+int hieveryonegoodafternoon;vaild 
+int hi_every_one_good_afternoon; vaild 
+int hifeveryoneGoodafternoon; vaild 
